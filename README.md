@@ -1,6 +1,5 @@
 # weather1
 Weather application
-https://sayalideshmukh235.github.io/weather1/ code link
 In this project we can see the weather of various cities using city name 
 In the UI of this project first you will get the text box where you have to write the city name and then click on search then it will show you the country name , city name ,co-ordinates,temprature ,pressure,humidity.
 In this project the main file is weatherproj in this folder the you will index.html file(weatherproj/template/main/index.html) and view file you will get how this UI will show the data.
